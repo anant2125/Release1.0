@@ -1,4 +1,4 @@
-package com.dev.release.Release10;
+package com.dev.release;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

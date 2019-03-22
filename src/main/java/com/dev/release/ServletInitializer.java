@@ -1,4 +1,4 @@
-package com.dev.release.Release10;
+package com.dev.release;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
